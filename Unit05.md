@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: NEGOTIABLE INSTRUMENTS AND SECURED TRANSACTIONS** <span
 id="5"></span> 
 *The UCC addresses two very important areas in modern trade and commerce

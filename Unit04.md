@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: CONTRACTS** <span id="4"></span> 
 *Contracts come in all shapes and sizes and appear in many aspects of
 daily life.  For example, you enter into a contract with a broker and/or

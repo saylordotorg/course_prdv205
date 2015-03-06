@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: THE COURTS AND LITIGATION** <span id="2"></span> 
 *A system of justice requires a process for justice.  In general, that
 process is available through the court system.  In this unit, you will

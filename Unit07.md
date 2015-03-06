@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: PROPERTY** <span id="7"></span> 
 *The idea of property usually strikes people as a fairly simple
 concept.  However, the law recognizes that the interests in various

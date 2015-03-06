@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: BUSINESS REGULATION** <span id="9"></span> 
 *Government regulation is always a topic of debate within the business
 community.  In the immediate wake of Enron's massive accounting fraud,

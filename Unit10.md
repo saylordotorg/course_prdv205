@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: CORPORATE GOVERNANCE AND REGULATORY COMPLIANCE** <span
 id="10"></span> 
 *Now that you have explored various areas of business regulation in the

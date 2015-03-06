@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: EMPLOYMENT LAW** <span id="6"></span> 
 *The employer-employee relationship is a key one in the business world. 
 Until relatively recently, within the last one hundred years or so, this

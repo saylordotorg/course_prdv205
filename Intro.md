@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PRDV205: Business Law and Legal Procedures "
 -----------------------------------------------------------------
 

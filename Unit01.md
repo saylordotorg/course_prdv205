@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: AN OVERVIEW OF THE LAW AND BUSINESS** <span id="1"></span> 
 *This unit introduces you to the foundations of law in the United States
 and provides you with an overview of how various US laws can affect the

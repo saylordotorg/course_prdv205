@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: TORTS AND CRIMINAL LAW** <span id="8"></span> 
 In addition to the civil disputes that fall under contract law, two
 other branches of law have a major impact on the operation of

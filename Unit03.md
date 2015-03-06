@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: BUSINESS ORGANIZATIONS** <span id="3"></span> 
 *Corporations are legal entities that protect shareholders from certain
 legal liabilities.  For example, if you start a sole proprietorship and

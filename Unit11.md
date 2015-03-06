@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV205: Business Law and Legal Procedures"
+course_description: "An introduction to the legal knowledge and skills that business administrators and paralegals must possess."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation's “PRDV205 Final Exam”**
     Link: The Saylor foundation's [“PRDV205 Final
