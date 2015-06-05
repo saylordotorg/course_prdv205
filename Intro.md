@@ -154,4 +154,16 @@ want to use these time advisories to determine how much time you have
 over the next few weeks to complete each unit, and then set your unit-
 and course-completion goals accordingly.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/prdv205/Unit01/)
+- [Unit 2](https://legacy.saylor.org/prdv205/Unit02/)
+- [Unit 3](https://legacy.saylor.org/prdv205/Unit03/)
+- [Unit 4](https://legacy.saylor.org/prdv205/Unit04/)
+- [Unit 5](https://legacy.saylor.org/prdv205/Unit05/)
+- [Unit 6](https://legacy.saylor.org/prdv205/Unit06/)
+- [Unit 7](https://legacy.saylor.org/prdv205/Unit07/)
+- [Unit 8](https://legacy.saylor.org/prdv205/Unit08/)
+- [Unit 9](https://legacy.saylor.org/prdv205/Unit09/)
+- [Unit 10](https://legacy.saylor.org/prdv205/Unit10/)
+- [Unit 11](https://legacy.saylor.org/prdv205/Unit11/)
