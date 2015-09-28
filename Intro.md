@@ -170,3 +170,4 @@ and course-completion goals accordingly.
 - [Unit 9](https://legacy.saylor.org/prdv205/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv205/Unit10/)
 - [Unit 11](https://legacy.saylor.org/prdv205/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV205/PRDV205-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV205/PRDV205-FinalExam-Answers.html)
