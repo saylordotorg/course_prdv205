@@ -39,7 +39,7 @@ id="5.1.1"></span> 
     Section 1: Introduction to Commercial Paper”**
     Link: *Business Law and the Legal Environment*: [“Chapter 22,
     Section 1: Introduction to Commercial
-    Paper”](http://www.saylor.org/site/wp-content/uploads/2013/07/Business-Law-Chapter-22.pdf)
+    Paper”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Business-Law-Chapter-22.pdf)
     (PDF)  
       
      Instructions: Read Chapter 22, Section 1 of the textbook.  This
@@ -67,7 +67,7 @@ id="5.1.1"></span> 
     Parties”**
     Link: *Business Law and the Legal Environment*: [“Chapter 22,
     Section 2: Scope of Article 3 and Types of Commercial Paper and
-    Parties”](http://www.saylor.org/site/wp-content/uploads/2013/07/Business-Law-Chapter-22.pdf)
+    Parties”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Business-Law-Chapter-22.pdf)
     (PDF)  
       
      Instructions: Read Section 2 from Chapter 22 of the textbook.  This
@@ -111,7 +111,7 @@ that you have signed a promissory note.*
     Section 3: Requirements for Negotiability”**
     Link: *Business Law and the Legal Environment*: [“Chapter 22,
     Section 3: Requirements for
-    Negotiability”](http://www.saylor.org/site/wp-content/uploads/2013/07/Business-Law-Chapter-22.pdf)
+    Negotiability”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Business-Law-Chapter-22.pdf)
     (PDF)  
       
      Instructions: Read Section 3 from Chapter 22 of the textbook.  This
@@ -135,7 +135,7 @@ that you have signed a promissory note.*
     Holder in Due Course”**
     Link: *Law of Commercial Transactions*: [“Chapter 24, Section 1:
     Holder in Due
-    Course”](http://www.saylor.org/site/wp-content/uploads/2013/07/Commercial-Transactions-Chapter-24.pdf)
+    Course”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Commercial-Transactions-Chapter-24.pdf)
     (PDF)  
       
      Instructions: Read Chapter 24, Section 1 of the textbook.  Under
@@ -162,7 +162,7 @@ that you have signed a promissory note.*
     Introduction to Secured Transactions”**
     Link: *Law of Commercial Transactions*: [“Chapter 28, Section 1:
     Introduction to Secured
-    Transactions”](http://www.saylor.org/site/wp-content/uploads/2013/07/Commercial-Transactions-Chapter-28.pdf)
+    Transactions”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Commercial-Transactions-Chapter-28.pdf)
     (PDF)  
       
      Instructions: Read Chapter 28, Section 1 of the textbook.  As you

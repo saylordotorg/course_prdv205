@@ -70,7 +70,7 @@ Upon successful completion of this unit, you should be able to:
     2, Section 3: Trial and Appellate Courts”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 2,
     Section 3: Trial and Appellate
-    Courts”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch2.pdf)
+    Courts”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch2.pdf)
     (PDF)  
       
      Instructions: In Section 3 of Chapter 2, you will learn background
@@ -116,7 +116,7 @@ courts.*
     “Chapter 3, Section 5: Judgment, Appeal, and Execution”**
     Link: *Foundations of* *Business Law and the Legal Environment*:
     [“Chapter 3, Section 5: Judgment, Appeal, and
-    Execution”](http://www.saylor.org/site/wp-content/uploads/2013/06/Foundations-of-Business-Law-Ch3.pdf)
+    Execution”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Foundations-of-Business-Law-Ch3.pdf)
     (PDF)  
       
      Instructions: Read Chapter 3, Section 5 of the textbook.  This
@@ -144,7 +144,7 @@ courts.*
     3, Section 1: The Parties Involved”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 3,
     Section 1: The Parties
-    Involved”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch3.pdf)
+    Involved”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch3.pdf)
     (PDF)  
       
      Instructions: Read Chapter 3, Section 1 of the textbook. 
@@ -170,7 +170,7 @@ courts.*
     3, Section 3: Pretrial Procedures”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 3,
     Section 3: Pretrial
-    Procedures”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch3.pdf)
+    Procedures”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch3.pdf)
     (PDF)  
       
      Instructions: Read Chapter 3, Section 3 of the textbook. 
@@ -207,7 +207,7 @@ submission of motions.*
     3, Section 4: The Trial and Appeal”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 3,
     Section 4: The Trial and
-    Appeal”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch3.pdf)
+    Appeal”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch3.pdf)
     (PDF)  
       
      Instructions: Read Chapter 3, Section 4 of the textbook.  When
@@ -233,7 +233,7 @@ submission of motions.*
     4, Introduction: Alternative Dispute Resolution”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 4,
     Introduction: Alternative Dispute
-    Resolution”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch4.pdf)
+    Resolution”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch4.pdf)
     (PDF)  
       
      Instructions: Read the introductory section in Chapter 4 of the
