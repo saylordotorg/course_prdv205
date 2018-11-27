@@ -51,7 +51,7 @@ Upon successful completion of this unit, you should be able to:
     8, Section 2: Real Property”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 8,
     Section 2: Real
-    Property”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch8.pdf)
+    Property”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch8.pdf)
     (PDF)  
       
      Instructions: Read Chapter 8, Section 2 of the textbook.  *Real
@@ -90,7 +90,7 @@ Upon successful completion of this unit, you should be able to:
     8, Section 1: Personal Property”**
     Link: *The Legal and Ethical Environment of Business:* [“Chapter 8,
     Section 1: Personal
-    Property”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch8.pdf)
+    Property”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch8.pdf)
     (PDF)  
       
      Instructions: Read Chapter 8, Section 1 of the textbook.  Books,
@@ -128,7 +128,7 @@ Upon successful completion of this unit, you should be able to:
     9, Section 2: Patents”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 9,
     Section 2:
-    Patents”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
+    Patents”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
     (PDF)  
       
      Instructions: Read Chapter 9, Section 2 of the textbook.  Patent
@@ -157,7 +157,7 @@ Upon successful completion of this unit, you should be able to:
     9, Section 4: Trademarks”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 9,
     Section 4:
-    Trademarks”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
+    Trademarks”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
     (PDF)  
       
      Instructions: Read Chapter 9, Section 4 of the textbook.  Trademark
@@ -191,7 +191,7 @@ Upon successful completion of this unit, you should be able to:
     9, Section 5: Copyright”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 9,
     Section 5:
-    Copyright”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
+    Copyright”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
     (PDF)  
       
      Instructions: Copyright is another area of intellectual property
@@ -229,7 +229,7 @@ Upon successful completion of this unit, you should be able to:
     9, Section 3: Trade Secrets”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 9,
     Section 3: Trade
-    Secrets”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
+    Secrets”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch9.pdf)
     (PDF)  
       
      Instructions: Read Section 3 from Chapter 9 of the textbook. 

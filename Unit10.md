@@ -41,7 +41,7 @@ Upon successful completion of this unit, you should be able to:
     Governance Reforms: An Executive Summary”**
     Link: *Corporate Governance*: [“Chapter 4, Section 1: Recent
     Governance Reforms: An Executive
-    Summary”](http://www.saylor.org/site/wp-content/uploads/2013/06/Corporate-Governance-Ch4.pdf)
+    Summary”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Corporate-Governance-Ch4.pdf)
     (PDF)  
       
      Instructions: This reading provides you with an overview of reforms
@@ -68,7 +68,7 @@ Upon successful completion of this unit, you should be able to:
     Regulatory Climate"**
     Link: *Corporate Governance*: [“Chapter 6, Section 1: The New
     Regulatory
-    Climate”](http://www.saylor.org/site/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
+    Climate”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
     (PDF)  
       
      Instructions: This reading provides you with a consideration of the
@@ -91,7 +91,7 @@ Upon successful completion of this unit, you should be able to:
     Regarding Oversight”**
     Link: *Corporate Governance*: [“Chapter 6, Section 3: Legal Issues
     Regarding
-    Oversight”](http://www.saylor.org/site/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
+    Oversight”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
     (PDF)  
       
      Instructions: This reading provides you with an overview of the
@@ -121,12 +121,12 @@ Compliance** <span id="10.4"></span> 
     “Chapter 13, Appendix B: Red Flags in Management”**
     Link: *Corporate Governance*: [“Chapter 6, Section 4: Red Flags in
     Management Culture, Strategies, and
-    Practices”](http://www.saylor.org/site/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
+    Practices”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
     (PDF); [“Chapter 6, Section 5: Questions about Ethics and Compliance
     for the
-    Board”](http://www.saylor.org/site/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
+    Board”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Corporate-Governance-Ch6.pdf)
     (PDF); and [“Chapter 13, Appendix B: Red Flags in
-    Management”](http://www.saylor.org/site/wp-content/uploads/2013/06/Corporate-Governance-Ch13.pdf)
+    Management”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Corporate-Governance-Ch13.pdf)
     (PDF)  
       
      Instructions: As the your previous readings indicate, it is

@@ -42,7 +42,7 @@ id="1.1"></span> 
     5, Section 1: Federalism and Preemption"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 5,
     Section 1: Federalism and
-    Preemption"](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch5.pdf)
+    Preemption"](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch5.pdf)
     (PDF)  
       
      Instructions: Read Section 1 from Chapter 5 of the textbook. Focus
@@ -100,7 +100,7 @@ id="1.1"></span> 
     1, Section 4: Importance of Rule of Law to Business"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 1,
     Section 4: Importance of Rule of Law to
-    Business”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch1.pdf)
+    Business”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch1.pdf)
     (PDF)  
       
      Instructions: Read Section 4 from Chapter 1 of the textbook.  Focus
@@ -124,7 +124,7 @@ id="1.2.2"></span> 
     1, Section 5: How Law Affects Business Disciplines"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 1,
     Section 5: How Law Affects Business
-    Disciplines”](http://www.saylor.org/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch1.pdf)
+    Disciplines”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch1.pdf)
     (PDF)  
       
      Instructions: It would be counterproductive to operate in the
