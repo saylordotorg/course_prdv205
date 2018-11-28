@@ -31,7 +31,7 @@ Upon successful completion of this unit, you should be able to:
     Link: *Foundations of Business Law and the Legal Environment*:
     [“Chapter 28, Section 1: History and Basic Framework of Antitrust
     Laws in the United
-    States”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Foundations-of-Business-Law-Ch28.pdf)
+    States”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Foundations-of-Business-Law-Ch28.pdf)
     (PDF)  
       
      Instructions: Read the textbook introduction to the history and
@@ -122,7 +122,7 @@ related to investment advisers.*
     Business*: “Chapter 14, Section 5: Environmental Law”**
     Link: *Government Regulation and the Legal Environment of Business*:
     [“Chapter 14, Section 5: Environmental
-    Law”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Government-Regulation-Ch14.pdf)
+    Law”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Government-Regulation-Ch14.pdf)
     (PDF)  
       
      Instructions: Read this textbook overview of environmental law in

@@ -31,7 +31,7 @@ Upon successful completion of this unit, you should be able to:
     Business*: “Chapter 18, Section 2: Employment at Will”**
     Link: *Government Regulation and the Legal Environment of Business*:
     [“Chapter 18, Section 2: Employment at
-    Will”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Government-Regulation-Ch18.pdf)
+    Will”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Government-Regulation-Ch18.pdf)
     (PDF)  
       
      Instructions: Read Chapter 18, Section 2 of the textbook.  In
@@ -60,7 +60,7 @@ Upon successful completion of this unit, you should be able to:
     Laws”**
     Link: *Government Regulation and the Legal Environment of Business*:
     [“Chapter 18, Section 1: Federal Employment Discrimination
-    Laws”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Government-Regulation-Ch18.pdf)
+    Laws”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Government-Regulation-Ch18.pdf)
     (PDF)  
       
      Instructions: Read Chapter 18, Section 1 of the textbook.  One way
@@ -93,7 +93,7 @@ Upon successful completion of this unit, you should be able to:
     Business*: ”Chapter 18, Section 3: Other Employment-Related Laws”**
     Link: *Government Regulation and the Legal Environment of Business*:
     [”Chapter 18, Section 3: Other Employment-Related
-    Laws”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Government-Regulation-Ch18.pdf)
+    Laws”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Government-Regulation-Ch18.pdf)
     (PDF)  
       
      Instructions: Read Chapter 18, Section 3 of the textbook.  Over the
@@ -124,7 +124,7 @@ Upon successful completion of this unit, you should be able to:
     Link: *Government Regulation and the Legal Environment of Business*:
     [“Chapter 19, Section 3: Labor and Management Rights under the
     Federal Labor
-    Laws”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Government-Regulation-Ch19.pdf)
+    Laws”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Government-Regulation-Ch19.pdf)
     (PDF)  
       
      Instructions: Read Chapter 19, Section 3 of the textbook.  This
