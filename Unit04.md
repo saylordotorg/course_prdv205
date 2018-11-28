@@ -43,7 +43,7 @@ Upon successful completion of this unit, you should be able to:
 -   **Reading: *The Legal and Ethical Environment of Business*: “Chapter
     6, Introduction"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 6,
-    Introduction”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
+    Introduction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
     (PDF)  
       
      Instructions: Read the introduction to Chapter 6 of the textbook. 
@@ -71,7 +71,7 @@ Upon successful completion of this unit, you should be able to:
     6, Section 1: Formation"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 6,
     Section 1:
-    Formation”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
+    Formation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
     (PDF)  
       
      Instructions: Read Chapter 6, Section 1 of the textbook.  Focus on
@@ -124,7 +124,7 @@ the end of your reading.*
 **4.2.5 Drafting a Contract** <span id="4.2.5"></span> 
 -   **Activity: The Saylor Foundation’s “Draft a Basic Contract”**
     Link: The Saylor Foundation’s [“Draft a Basic
-    Contract”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/PRDV205-Activity-4.2.5-DraftaBasicContract-FINAL.pdf)
+    Contract”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/PRDV205-Activity-4.2.5-DraftaBasicContract-FINAL.pdf)
     (PDF)  
       
      Instructions: In this activity you will draft a valid, effective
@@ -133,7 +133,7 @@ the end of your reading.*
     contract.  Also be sure to include all the important terms that are
     specified for the contract that is given in this activity’s example
     scenario.  Once you have completed your draft, use this
-    [rubric](https://resources.saylor.org/archived/wp-content/uploads/2013/12/PRDV205-Activity-4.2.5-DraftaBasicContract-Rubric-FINAL.pdf)
+    [rubric](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/PRDV205-Activity-4.2.5-DraftaBasicContract-Rubric-FINAL.pdf)
     to assess your work.  
       
      Completing this activity should take approximately 30 minutes.
@@ -144,7 +144,7 @@ the end of your reading.*
     Remedies"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 6,
     Section 2: Performance and Discharge, Breach, Defenses, Equitable
-    Remedies”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
+    Remedies”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
     (PDF)  
       
      Instructions: Read Chapter 6, Section 2 of the textbook.  Once a
@@ -196,7 +196,7 @@ of remedy, and that this option may not be available in every instance.
     Clauses”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 6,
     Section 3: Assignment, Delegation, and Commonly Used Contracts
-    Clauses”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
+    Clauses”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch6.pdf)
     (PDF)  
       
      Instructions: Read Section 3 from Chapter 6 of the textbook.  Focus

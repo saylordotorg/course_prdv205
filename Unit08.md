@@ -57,7 +57,7 @@ Upon successful completion of this unit, you should be able to:
     7, Section 1: Intentional Torts"**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 7,
     Section 1: Intentional
-    Torts”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch7.pdf)
+    Torts”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch7.pdf)
     (PDF)  
       
      Instructions: Read Chapter 7, Section 1 of the textbook. 
@@ -84,7 +84,7 @@ Upon successful completion of this unit, you should be able to:
     7, Section 2: Negligence”**
     Link: *The Legal and Ethical Environment of Business:* [“Chapter 7,
     Section 2:
-    Negligence”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch7.pdf)
+    Negligence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch7.pdf)
     (PDF)  
       
      Instructions: Read Chapter 7, Section 2 of the textbook.  Have you
@@ -118,7 +118,7 @@ Upon successful completion of this unit, you should be able to:
     7, Section 3: Strict Liability”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 7,
     Section 3: Strict
-    Liability”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch7.pdf)
+    Liability”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch7.pdf)
     (PDF)  
       
      Instructions: Read Section 3 from Chapter 7 of the textbook.  The
@@ -170,7 +170,7 @@ developing area of torts law.*
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 10,
     Section 1: The Nature of Criminal Law, Constitutional Rights,
     Defenses, and
-    Punishment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch10.pdf)
+    Punishment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch10.pdf)
     (PDF)  
       
      Instructions: Read Chapter 10, Section 1 of the textbook.  This
@@ -198,7 +198,7 @@ developing area of torts law.*
     10, Section 2: Crime”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 10,
     Section 2:
-    Crime”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch10.pdf)
+    Crime”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch10.pdf)
     (PDF)  
       
      Instructions: Read Chapter 10, Section 2 of the textbook.  This

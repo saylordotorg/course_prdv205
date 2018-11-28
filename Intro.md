@@ -108,7 +108,7 @@ resource boxes throughout this course.
  **Reading:** ***The Legal and Ethical Environment of Business***  
   
  Link: [*The Legal and Ethical Environment of
-Business*](https://resources.saylor.org/archived/textbooks/The%20Legal%20and%20Ethical%20Environment%20of%20Business.pdf)
+Business*](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Legal%20and%20Ethical%20Environment%20of%20Business.pdf)
 (PDF)  
   
  Terms of Use: This text was adapted by The Saylor Foundation under a
@@ -120,7 +120,7 @@ attribution, as requested by the work’s original creator or licensee.
  **Reading:*****Corporate Governance***  
   
  Link: [*Corporate
-Governance*](https://resources.saylor.org/archived/textbooks/Corporate%20Governance.pdf)
+Governance*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Corporate%20Governance.pdf)
 (PDF)  
   
  Terms of Use: This text was adapted by The Saylor Foundation under a
@@ -133,7 +133,7 @@ attribution, as requested by the work’s original creator or licensee.
 Environment***  
   
  Link: [*Foundations of Business Law and the Legal
-Environment*](https://resources.saylor.org/archived/textbooks/Foundations%20of%20Business%20Law%20and%20the%20Legal%20Environment.pdf)
+Environment*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Foundations%20of%20Business%20Law%20and%20the%20Legal%20Environment.pdf)
 (PDF)  
   
  Terms of Use: This text was adapted by The Saylor Foundation under a

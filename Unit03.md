@@ -40,7 +40,7 @@ Upon successful completion of this unit, you should be able to:
     11, Section 1: Sole Proprietorships”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 11,
     Section 1: Sole
-    Proprietorships”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
+    Proprietorships”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
     (PDF)  
       
      Instructions: Read Chapter 11, Section 1 of the textbook.  *Sole
@@ -71,7 +71,7 @@ Upon successful completion of this unit, you should be able to:
     11, Section 2: Partnerships”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 11,
     Section 2:
-    Partnerships”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
+    Partnerships”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
     (PDF)  
       
      Instructions: Read Section 2 from Chapter 11 of the textbook.  For
@@ -96,7 +96,7 @@ Upon successful completion of this unit, you should be able to:
     11, Section 3: Corporations”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 11,
     Section 3:
-    Corporations”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
+    Corporations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
     (PDF)  
       
      Instructions: Read Chapter 11, Section 3 of the textbook for an
@@ -118,7 +118,7 @@ Upon successful completion of this unit, you should be able to:
     11, Section 4: Limited Liability Entities”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 11,
     Section 4: Limited Liability
-    Entities”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
+    Entities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Legal-Ethical-Environment-Ch11.pdf)
     (PDF)  
       
      Instructions: Read Section 4 from Chapter 11 of the textbook. 
@@ -163,7 +163,7 @@ professional partnerships such as law firms and accounting firms.*
 -   **Reading: The Saylor Foundation’s “Filing a Registration for a New
     Business”**
     Link: The Saylor Foundation’s [“Filing a Registration for a New
-    Business”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/PRDV205-OC-StateRegistrationFiling-FINAL.pdf)
+    Business”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/PRDV205-OC-StateRegistrationFiling-FINAL.pdf)
     (PDF)  
       
      Instructions: In this reading, you will familiarize yourself with
